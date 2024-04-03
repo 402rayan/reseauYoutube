@@ -1,16 +1,96 @@
 {
-  "Inoxtag": {},
+  "Inoxtag": {
+    "Michou": [
+      "48H pour sortir des BACKROOMS !",
+      "100 défis en une Journée Challenge",
+      "Qui sera le dernier survivant ?",
+      "On vous dit tout..",
+      "48H pour Survivre à une invasion de Zombie",
+      "4 vs 1 (Qui remportera le plus d’épreuves ?!)"
+    ],
+    "LeGrandJD": [
+      "48H pour sortir des BACKROOMS !",
+      "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)"
+    ],
+    "Aminematue": [
+      "48H pour sortir des BACKROOMS !",
+      "Qui sera le dernier survivant ?",
+      "Qui sont les Serials Killers?! (Le plus gros Loup-Garou de France) #2",
+      "100 défis en une Journée Challenge #2",
+      "48H pour Survivre à une invasion de Zombie",
+      "Qui sera le dernier dans le Van (Ce concept est un Flop)"
+    ],
+    "RebeuDeter": [
+      "48H pour sortir des BACKROOMS !",
+      "Qui sont les Serials Killers?! (Le plus gros Loup-Garou de France) #2",
+      "100 défis en une Journée Challenge #2",
+      "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)",
+      "Qui sera le dernier dans le Van (Ce concept est un Flop)"
+    ],
+    "McflyCarlito": [
+      "100 défis en une Journée Challenge"
+    ],
+    "Mastu" : [
+      "Qui perdra son Job !?",
+      "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)"
+    ],
+    "Theodort" : [
+      "Qui sont les Serials Killers?! (Le plus gros Loup-Garou de France) #2"
+    ],
+    "Maghla" : [
+      "Qui sont les Serials Killers?! (Le plus gros Loup-Garou de France) #2"
+    ],
+    "GMK" : [
+      "7 jours en Van pour faire le Tour de France",
+      "J’ai acheté la voiture de mes rêves (elle est monstrueuse)"
+    ],
+    "Djilsi" : [
+      "100 défis en une Journée Challenge #2",
+      "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)"
+    ],
+    "LeBouseuh" : [
+      "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)",
+      "4 vs 1 (Qui remportera le plus d’épreuves ?!)"
+    ],
+    "Gotaga" : [
+      "Qui sera le dernier dans le Van (Ce concept est un Flop)"
+    ],
+    "FastGoodCuisine" : [
+      "4 vs 1 (Qui remportera le plus d’épreuves ?!)"
+    ]
+
+  },
   "Aminematue": {},
-  "Rebeudeter": {},
+  "Rebeudeter": {
+    "Aminematue": [
+      "On devient surveillant dans une école",
+      "On s'envoie sur une île avec Amine",
+      "Ma première fois avec Amine au ski",
+      "On a visité le fin fond de la France"
+    ],
+    "Maghla": [
+      "On devient surveillant dans une école"
+    ],
+    "Mastu": [
+      "On survit 24h sur une île déserte"
+    ],
+    "MaximeBiaggi": [
+      "On survit 24h sur une île déserte"
+    ]
+  },
   "Squeezie": {
-    "Seb": ["LE PIRE DATE #2"],
+    "Seb": [
+      "LE PIRE DATE #2"
+    ],
     "Joyca": [
       "LE PIRE DATE #2",
       "QUI EST LE MEURTRIER #2",
       "QUI EST LE MEURTRIER #1",
       "T'es pas drôle, tu sors"
     ],
-    "Maghla": ["LE PIRE DATE #2"],
+    "Maghla": [
+      "LE PIRE DATE #2"
+    ],
     "HugoDecrypte": [
       "QUI EST LE MEURTRIER #2",
       "QUI EST LE MEURTRIER #1",
@@ -36,14 +116,64 @@
       "QUI EST LE MEURTRIER #1",
       "Ils nous ont insulté en ligne, on les confronte IRL"
     ],
-    "RebeuDeter": ["QUI EST LE MEURTRIER #2", "QUI EST LE MEURTRIER #1"],
-    "Locklear": ["QUI EST LE MEURTRIER #2", "QUI EST LE MEURTRIER #1"],
-    "Theodort": ["Qui nous cache quelque chose ? #3", "LE PIRE DATE"],
-    "Jdg": ["Ils nous ont insulté en ligne, on les confronte IRL #2"],
-    "MisterMV": ["Ils nous ont insulté en ligne, on les confronte IRL #2"],
-    "Gotaga": ["Ils nous ont insulté en ligne, on les confronte IRL"]
+    "RebeuDeter": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1"
+    ],
+    "Locklear": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1"
+    ],
+    "Theodort": [
+      "Qui nous cache quelque chose ? #3",
+      "LE PIRE DATE"
+    ],
+    "Jdg": [
+      "Ils nous ont insulté en ligne, on les confronte IRL #2"
+    ],
+    "MisterMV": [
+      "Ils nous ont insulté en ligne, on les confronte IRL #2"
+    ],
+    "Gotaga": [
+      "Ils nous ont insulté en ligne, on les confronte IRL"
+    ]
   },
   "Djilsi": {
-    "MaximeBiaggi": ["Sommes-nous des bons acteurs ? SILENCE PLATEAU"]
+    "MaximeBiaggi": [
+      "Sommes-nous des bons acteurs ? SILENCE PLATEAU",
+      "LE DÎNER DE C*NS",
+      "MAUVAISE PIOCHE 2",
+      "À la recherche de la chaussure perdue",
+      "ROI DU SILENCE",
+      "Parties de pétanque... en voitures",
+      "MAUVAISE PIOCHE"
+    ],
+    "Gotaga": [
+      "On lave notre linge sale en public"
+    ],
+    "Joyca": [
+      "LE CASSE DU SIÈCLE"
+    ],
+    "Sofyan": [
+      "LE CASSE DU SIÈCLE"
+    ],
+    "Seb": [
+      "LE CASSE DU SIÈCLE",
+      "MAUVAISE PIOCHE 2",
+      "MAUVAISE PIOCHE"
+    ],
+    "Theodort": [
+      "LE DÎNER DE C*NS",
+      "ROI DU SILENCE",
+      "Parties de pétanque... en voitures"
+    ],
+    "RebeuDeter": [
+      "MAUVAISE PIOCHE 2",
+      "Parties de pétanque... en voitures",
+      "MAUVAISE PIOCHE"
+    ],
+    "MisterV": [
+      "On lave notre linge sale en public"
+    ]
   }
 }
