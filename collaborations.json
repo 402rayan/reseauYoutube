@@ -1,13 +1,49 @@
 {
-    "Inoxtag": {
-      "Aminematue": ["Vidéo1", "Vidéo2"],
-      "Rebeudeter": ["Vidéo3"],
-      "Squeezie": ["Vidéo4"]
-    },
-    "Aminematue": {
-      "Rebeudeter": ["Vidéo5", "Vidéo6"]
-    },
-    "Rebeudeter": {},
-    "Squeezie": {}
+  "Inoxtag": {},
+  "Aminematue": {},
+  "Rebeudeter": {},
+  "Squeezie": {
+    "Seb": ["LE PIRE DATE #2"],
+    "Joyca": [
+      "LE PIRE DATE #2",
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1",
+      "T'es pas drôle, tu sors"
+    ],
+    "Maghla": ["LE PIRE DATE #2"],
+    "HugoDecrypte": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1",
+      "Le meilleur duo évite la prison #3"
+    ],
+    "Djilsi": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1",
+      "48h pour assembler et faire décoller un Lego Concorde",
+      "ON OFFRE 100.000€ DE VOYAGE AUX SQUEEZOS",
+      "LE PIRE DATE",
+      "Qui nous cache quelque chose ? #2"
+    ],
+    "MaximeBiaggi": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1",
+      "48h pour assembler et faire décoller un Lego Concorde",
+      "ON OFFRE 100.000€ DE VOYAGE AUX SQUEEZOS",
+      "Qui nous cache quelque chose ? #2"
+    ],
+    "Kameto": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1",
+      "Ils nous ont insulté en ligne, on les confronte IRL"
+    ],
+    "RebeuDeter": ["QUI EST LE MEURTRIER #2", "QUI EST LE MEURTRIER #1"],
+    "Locklear": ["QUI EST LE MEURTRIER #2", "QUI EST LE MEURTRIER #1"],
+    "Theodort": ["Qui nous cache quelque chose ? #3", "LE PIRE DATE"],
+    "Jdg": ["Ils nous ont insulté en ligne, on les confronte IRL #2"],
+    "MisterMV": ["Ils nous ont insulté en ligne, on les confronte IRL #2"],
+    "Gotaga": ["Ils nous ont insulté en ligne, on les confronte IRL"]
+  },
+  "Djilsi": {
+    "MaximeBiaggi": ["Sommes-nous des bons acteurs ? SILENCE PLATEAU"]
   }
-  
+}
