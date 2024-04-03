@@ -1,0 +1,13 @@
+{
+    "Inoxtag": {
+      "Aminematue": ["Vidéo1", "Vidéo2"],
+      "Rebeudeter": ["Vidéo3"],
+      "Squeezie": ["Vidéo4"]
+    },
+    "Aminematue": {
+      "Rebeudeter": ["Vidéo5", "Vidéo6"]
+    },
+    "Rebeudeter": {},
+    "Squeezie": {}
+  }
+  
