@@ -20,7 +20,7 @@
       "48H pour Survivre à une invasion de Zombie",
       "Qui sera le dernier dans le Van (Ce concept est un Flop)"
     ],
-    "RebeuDeter": [
+    "Rebeudeter": [
       "48H pour sortir des BACKROOMS !",
       "Qui sont les Serials Killers?! (Le plus gros Loup-Garou de France) #2",
       "100 défis en une Journée Challenge #2",
@@ -60,7 +60,38 @@
     ]
 
   },
-  "Aminematue": {},
+  "Aminematue": {
+    "Rebeudeter" : [
+      "QUI SERA LE DERNIER À RESTER EN VIE SUR L’ÎLE ?!",
+      "ON PART AU TEXAS POUR DEVENIR DES COW-BOYS",
+      "ON PASSE DES ENTRETIENS POUR RETROUVER DU TRAVAIL - FINITO",
+      "IL A LE CHOIX ENTRE UN VOYAGE OU UNE BANANE - À PRENDRE ou À JETER",
+      "LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"
+    ],
+    "Theodort" : [
+      "QUI SERA LE DERNIER À RESTER EN VIE SUR L’ÎLE ?!"
+    ],
+    "Mastu" : [
+      "QUI SERA LE DERNIER À RESTER EN VIE SUR L’ÎLE ?!"
+    ],
+    "Inoxtag" : [
+      "ON PASSE DES ENTRETIENS POUR RETROUVER DU TRAVAIL - FINITO",
+      "IL A LE CHOIX ENTRE UN VOYAGE OU UNE BANANE - À PRENDRE ou À JETER",
+      "LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"
+    ],
+    "FreddyGladieux" : [
+      "ON PASSE DES ENTRETIENS POUR RETROUVER DU TRAVAIL - FINITO"
+    ],
+    "MisterV" : [
+      "IL FAIT SAUTER LA CAUTION DE LA MAISON - Je passe une nuit posée avec Mister V"
+    ],
+    "Gotaga" : [
+      "LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"
+    ],
+    "Kameto" : [
+      "LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"
+    ]
+  },
   "Rebeudeter": {
     "Aminematue": [
       "On devient surveillant dans une école",
@@ -116,7 +147,7 @@
       "QUI EST LE MEURTRIER #1",
       "Ils nous ont insulté en ligne, on les confronte IRL"
     ],
-    "RebeuDeter": [
+    "Rebeudeter": [
       "QUI EST LE MEURTRIER #2",
       "QUI EST LE MEURTRIER #1"
     ],
@@ -167,7 +198,7 @@
       "ROI DU SILENCE",
       "Parties de pétanque... en voitures"
     ],
-    "RebeuDeter": [
+    "Rebeudeter": [
       "MAUVAISE PIOCHE 2",
       "Parties de pétanque... en voitures",
       "MAUVAISE PIOCHE"
@@ -175,5 +206,39 @@
     "MisterV": [
       "On lave notre linge sale en public"
     ]
+  },
+  "LeBouseuh" : {
+    "Inoxtag" : [
+      "QUEL CROUTON EST LE PLUS ... ? (Version HARD)",
+      "LES CROUTONS M'ONT TATOUÉ ! (c'est la catastrophe ...)",
+      "POUR COMBIEN TU MANGES DU CACA ?",
+      "ON PASSE LE CODE MOTO AVEC INOXTAG !",
+      "IL APPELLE LA POLICE POUR UNE HISTOIRE DE TROTINETTE !",
+      "J'EMMENE INOXTAG ET MICHOU EN DRIFT AVEC MA M3 !",
+      "LA FIN DE LA TEAM CROUTON ?!"
+    ],
+    "Michou" : [
+      "QUEL CROUTON EST LE PLUS ... ? (Version HARD)",
+      "MICHOU BOIT SON PROPRE PIPI ! (Pour combien tu ... ? Spécial Croutons)",
+      "LES CROUTONS M'ONT TATOUÉ ! (c'est la catastrophe ...)",
+      "POUR COMBIEN TU MANGES DU CACA ?",
+      "J'EMMENE INOXTAG ET MICHOU EN DRIFT AVEC MA M3 !"
+    ],
+    "Valouzz" : [
+      "QUEL CROUTON EST LE PLUS ... ? (Version HARD)",
+      "MICHOU BOIT SON PROPRE PIPI ! (Pour combien tu ... ? Spécial Croutons)",
+      "LES CROUTONS DANS UN VOL EN PREMIERE CLASSE !"
+    ],
+    "TiboInShape" : [
+      "QUEL DUO SERA LE MEILLEUR ?",
+      "IL GAGNE 1 MILLION PAR MOIS (le secret de Tibo InShape)"
+    ],
+    "Villebrequin" : [
+      "SYLVAIN M’EMMÈNE EN ENFER !"
+    ]
+  },
+  "TiboInShape" : {
+    "HenryTran" : ["TIBO INSHAPE vs HENRY TRAN ! (boxe, mma, lutte..)"],
+    "JujuFitCats" : ["ON OUVRE LES PIRES COLIS D'ABONNÉS !! @jujufitcats"]
   }
 }
