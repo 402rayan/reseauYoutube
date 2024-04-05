@@ -241,8 +241,11 @@
       "Qui Aura Le Pire Plat ? (Ft. Sora et Nico)",
       "Qui Aura Le Plat Piégé ? (Spéciale Fast-Food)"
     ],
-    "Inoxtag": ["Qui Aura Le Plat Piégé ? (Ft. Inoxtag , Gurky et Nico)", "Qui Est Le Pire ? (ft Michou, Inox, Hugoposé"],
-    "Michou" : ["Qui Est Le Pire ? (ft Michou, Inox, Hugoposé"],
+    "Inoxtag": [
+      "Qui Aura Le Plat Piégé ? (Ft. Inoxtag , Gurky et Nico)",
+      "Qui Est Le Pire ? (ft Michou, Inox, Hugoposé"
+    ],
+    "Michou": ["Qui Est Le Pire ? (ft Michou, Inox, Hugoposé"],
     "Valouzz": ["On Mange 50 Burgers Avec Valouzz ! (Mauvaise idée...)"],
     "Cyril": ["Qui Aura Le Plat Piégé ? (Ultra piquant)"]
   },
@@ -283,5 +286,7 @@
       "Le jeu des statistiques insolites ! (certains chiffres sont impossibles à deviner)"
     ],
     "Sora": ["Le dernier qui lâche son téléphone du regard gagne !"]
+  },
+  "Michou": {
   }
 }
