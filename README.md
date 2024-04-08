@@ -17,7 +17,7 @@ Le graph est créé avec la librairie `networkx` et affiché avec `matplotlib`.
 - Les vidéos du GP Explorer ne sont pas prises en compte
 - Les vidéos du Eleven All Star ne sont pas prises en compte
 
-## Derniere Videos:
+## Derniere Videos prise en compte:
 
 - Squeezie
   > T'es pas drôle, tu sors
@@ -56,4 +56,4 @@ Le graph est créé avec la librairie `networkx` et affiché avec `matplotlib`.
 - RebeuDeter
   > Toutes les vidéos
 - MisterV, Cyprien, SEB, KevinTran, Feldup
-  > Pas de feat
+  > Pas de collaborations récentes
