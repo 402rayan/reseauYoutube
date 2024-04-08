@@ -1,7 +1,7 @@
 # Introduction
 
-Ce projet a pour but d'identifier les liens entre les chaines youtubes françaises populaires,
-en regardant les collaborations faites entre les youtubers.
+Ce projet a pour but de créer un graph en `python` représentant les collaborations entre les youtubers francophones populaires. Les données utilisées sont les abonnés de chaque chaine et les collaborations entre les chaines, elles ont été récupérées par moi même manuellement.
+Le graph est créé avec la librairie `networkx` et affiché avec `matplotlib`.
 
 # Arborescence
 
