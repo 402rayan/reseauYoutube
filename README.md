@@ -1,9 +1,23 @@
-# Exceptions:
+# Introduction
+
+Ce projet a pour but d'identifier les liens entre les chaines youtubes françaises populaires,
+en regardant les collaborations faites entre les youtubers.
+
+# Arborescence
+
+- `assets/` : dossier contenant les images de youtubers utilisées pour le graph
+- `nbAbonnes.json` : fichier contenant le nombre d'abonnés de chaque chaine
+- `collaborations.json` : fichier contenant les collaborations entre les chaines
+- `main.ipynb` : notebook principal à exécuter pour obtenir le graph final
+
+# Détails
+
+## Exceptions:
 
 - Les vidéos du GP Explorer ne sont pas prises en compte
 - Les vidéos du Eleven All Star ne sont pas prises en compte
 
-# Derniere Videos:
+## Derniere Videos:
 
 - Squeezie
   > T'es pas drôle, tu sors
