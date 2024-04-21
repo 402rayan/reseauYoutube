@@ -27,7 +27,9 @@
       "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)",
       "Qui sera le dernier dans le Van (Ce concept est un Flop)"
     ],
-    "McflyCarlito": ["100 défis en une Journée Challenge"],
+    "McflyCarlito": [
+      "100 défis en une Journée Challenge"
+    ],
     "Mastu": [
       "Qui perdra son Job !?",
       "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)"
@@ -50,8 +52,12 @@
       "Qui sont les Serials Killers ?! (Le plus gros Loup-Garou de France)",
       "4 vs 1 (Qui remportera le plus d’épreuves ?!)"
     ],
-    "Gotaga": ["Qui sera le dernier dans le Van (Ce concept est un Flop)"],
-    "FastGoodCuisine": ["4 vs 1 (Qui remportera le plus d’épreuves ?!)"]
+    "Gotaga": [
+      "Qui sera le dernier dans le Van (Ce concept est un Flop)"
+    ],
+    "FastGoodCuisine": [
+      "4 vs 1 (Qui remportera le plus d’épreuves ?!)"
+    ]
   },
   "Aminematue": {
     "RebeuDeter": [
@@ -61,8 +67,12 @@
       "IL A LE CHOIX ENTRE UN VOYAGE OU UNE BANANE - À PRENDRE ou À JETER",
       "LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"
     ],
-    "Theodort": ["QUI SERA LE DERNIER À RESTER EN VIE SUR L’ÎLE ?!"],
-    "Mastu": ["QUI SERA LE DERNIER À RESTER EN VIE SUR L’ÎLE ?!"],
+    "Theodort": [
+      "QUI SERA LE DERNIER À RESTER EN VIE SUR L’ÎLE ?!"
+    ],
+    "Mastu": [
+      "QUI SERA LE DERNIER À RESTER EN VIE SUR L’ÎLE ?!"
+    ],
     "Inoxtag": [
       "ON PASSE DES ENTRETIENS POUR RETROUVER DU TRAVAIL - FINITO",
       "IL A LE CHOIX ENTRE UN VOYAGE OU UNE BANANE - À PRENDRE ou À JETER",
@@ -74,8 +84,12 @@
     "MisterV": [
       "IL FAIT SAUTER LA CAUTION DE LA MAISON - Je passe une nuit posée avec Mister V"
     ],
-    "Gotaga": ["LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"],
-    "Kameto": ["LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"]
+    "Gotaga": [
+      "LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"
+    ],
+    "Kameto": [
+      "LES PIRES CHUTES DE L’HISTOIRE - Quel sera le meilleur duo"
+    ]
   },
   "RebeuDeter": {
     "Aminematue": [
@@ -84,19 +98,29 @@
       "Ma première fois avec Amine au ski",
       "On a visité le fin fond de la France"
     ],
-    "Maghla": ["On devient surveillant dans une école"],
-    "Mastu": ["On survit 24h sur une île déserte"],
-    "MaximeBiaggi": ["On survit 24h sur une île déserte"]
+    "Maghla": [
+      "On devient surveillant dans une école"
+    ],
+    "Mastu": [
+      "On survit 24h sur une île déserte"
+    ],
+    "MaximeBiaggi": [
+      "On survit 24h sur une île déserte"
+    ]
   },
   "Squeezie": {
-    "Seb": ["LE PIRE DATE #2"],
+    "Seb": [
+      "LE PIRE DATE #2"
+    ],
     "Joyca": [
       "LE PIRE DATE #2",
       "QUI EST LE MEURTRIER #2",
       "QUI EST LE MEURTRIER #1",
       "T'es pas drôle, tu sors"
     ],
-    "Maghla": ["LE PIRE DATE #2"],
+    "Maghla": [
+      "LE PIRE DATE #2"
+    ],
     "HugoDecrypte": [
       "QUI EST LE MEURTRIER #2",
       "QUI EST LE MEURTRIER #1",
@@ -122,12 +146,27 @@
       "QUI EST LE MEURTRIER #1",
       "Ils nous ont insulté en ligne, on les confronte IRL"
     ],
-    "RebeuDeter": ["QUI EST LE MEURTRIER #2", "QUI EST LE MEURTRIER #1"],
-    "Locklear": ["QUI EST LE MEURTRIER #2", "QUI EST LE MEURTRIER #1"],
-    "Theodort": ["Qui nous cache quelque chose ? #3", "LE PIRE DATE"],
-    "Jdg": ["Ils nous ont insulté en ligne, on les confronte IRL #2"],
-    "MisterMV": ["Ils nous ont insulté en ligne, on les confronte IRL #2"],
-    "Gotaga": ["Ils nous ont insulté en ligne, on les confronte IRL"]
+    "RebeuDeter": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1"
+    ],
+    "Locklear": [
+      "QUI EST LE MEURTRIER #2",
+      "QUI EST LE MEURTRIER #1"
+    ],
+    "Theodort": [
+      "Qui nous cache quelque chose ? #3",
+      "LE PIRE DATE"
+    ],
+    "Jdg": [
+      "Ils nous ont insulté en ligne, on les confronte IRL #2"
+    ],
+    "MisterMV": [
+      "Ils nous ont insulté en ligne, on les confronte IRL #2"
+    ],
+    "Gotaga": [
+      "Ils nous ont insulté en ligne, on les confronte IRL"
+    ]
   },
   "Djilsi": {
     "MaximeBiaggi": [
@@ -139,10 +178,20 @@
       "Parties de pétanque... en voitures",
       "MAUVAISE PIOCHE"
     ],
-    "Gotaga": ["On lave notre linge sale en public"],
-    "Joyca": ["LE CASSE DU SIÈCLE"],
-    "Sofyan": ["LE CASSE DU SIÈCLE"],
-    "Seb": ["LE CASSE DU SIÈCLE", "MAUVAISE PIOCHE 2", "MAUVAISE PIOCHE"],
+    "Gotaga": [
+      "On lave notre linge sale en public"
+    ],
+    "Joyca": [
+      "LE CASSE DU SIÈCLE"
+    ],
+    "Sofyan": [
+      "LE CASSE DU SIÈCLE"
+    ],
+    "Seb": [
+      "LE CASSE DU SIÈCLE",
+      "MAUVAISE PIOCHE 2",
+      "MAUVAISE PIOCHE"
+    ],
     "Theodort": [
       "LE DÎNER DE C*NS",
       "ROI DU SILENCE",
@@ -153,7 +202,9 @@
       "Parties de pétanque... en voitures",
       "MAUVAISE PIOCHE"
     ],
-    "MisterV": ["On lave notre linge sale en public"]
+    "MisterV": [
+      "On lave notre linge sale en public"
+    ]
   },
   "LeBouseuh": {
     "Inoxtag": [
@@ -181,11 +232,17 @@
       "QUEL DUO SERA LE MEILLEUR ?",
       "IL GAGNE 1 MILLION PAR MOIS (le secret de Tibo InShape)"
     ],
-    "Villebrequin": ["SYLVAIN M’EMMÈNE EN ENFER !"]
+    "Villebrequin": [
+      "SYLVAIN M’EMMÈNE EN ENFER !"
+    ]
   },
   "TiboInShape": {
-    "HenryTran": ["TIBO INSHAPE vs HENRY TRAN ! (boxe, mma, lutte..)"],
-    "JujuFitCats": ["ON OUVRE LES PIRES COLIS D'ABONNÉS !!"]
+    "HenryTran": [
+      "TIBO INSHAPE vs HENRY TRAN ! (boxe, mma, lutte..)"
+    ],
+    "JujuFitCats": [
+      "ON OUVRE LES PIRES COLIS D'ABONNÉS !!"
+    ]
   },
   "HenryTran": {
     "KevinTran": [
@@ -195,15 +252,25 @@
       "QUEL POKÉMON EST LE PLUS APPÉTISSANT ? 🤔 (ft. Kevin & Naskid)",
       "D'ACCORD PAS D'ACCORD #1 ! (ft. Kevin)"
     ],
-    "Mastu": ["D'ACCORD PAS D'ACCORD #5"],
-    "Michou": ["D'ACCORD PAS D'ACCORD #4 ! (ft. Michou)"],
-    "TiboInShape": ["D'ACCORD PAS D'ACCORD #2 ! (ft. Tibo Inshape)"]
+    "Mastu": [
+      "D'ACCORD PAS D'ACCORD #5"
+    ],
+    "Michou": [
+      "D'ACCORD PAS D'ACCORD #4 ! (ft. Michou)"
+    ],
+    "TiboInShape": [
+      "D'ACCORD PAS D'ACCORD #2 ! (ft. Tibo Inshape)"
+    ]
   },
   "Sofyan": {
-    "Seb": ["TU ES UN INFLUENCEUR HARRY ! - DOUBLAGE (ft. SEB)"]
+    "Seb": [
+      "TU ES UN INFLUENCEUR HARRY ! - DOUBLAGE (ft. SEB)"
+    ]
   },
   "JujuFitCats": {
-    "Valouzz": ["PIDI BALANCE SON FRIGO ! (avec Valouzz)"],
+    "Valouzz": [
+      "PIDI BALANCE SON FRIGO ! (avec Valouzz)"
+    ],
     "LeBouseuh": [
       "LE BOUSEUH BALANCE SON FRIGO ! (du beurre, des crêpes et du chocolat...)",
       "QUI SONT LES TRAÎTRES ?! ft. @TiboInShape @Doomsgaming "
@@ -215,7 +282,9 @@
       "QUI DE NOUS DEUX ? (en couple...) ft. @TiboInShape",
       "QUI SONT LES TRAÎTRES ?! ft. @TiboInShape @Doomsgaming "
     ],
-    "Sora": ["SORA BALANCE SON FRIGO ! (et je suis FAN de son PAPA)"]
+    "Sora": [
+      "SORA BALANCE SON FRIGO ! (et je suis FAN de son PAPA)"
+    ]
   },
   "EnjoyPhoenix": {
     "HenryTran": [
@@ -224,7 +293,9 @@
     "LeBouseuh": [
       "Qui aura la meilleure résistance à la douleur ? (ft. LeBouseuh, HenryTran & DouzeFevrier)"
     ],
-    "JujuFitCats": ["J'te crois pas ! (ft. JohanPapz, JujuFitcats & Dooms)"],
+    "JujuFitCats": [
+      "J'te crois pas ! (ft. JohanPapz, JujuFitcats & Dooms)"
+    ],
     "Sora": [
       "Une Médium devine ce qu'il y a dans nos boites ! (ft. Sora, Emy LTR, Stelle & HenriPFR)"
     ]
@@ -245,9 +316,15 @@
       "Qui Aura Le Plat Piégé ? (Ft. Inoxtag , Gurky et Nico)",
       "Qui Est Le Pire ? (ft Michou, Inox, Hugoposé"
     ],
-    "Michou": ["Qui Est Le Pire ? (ft Michou, Inox, Hugoposé"],
-    "Valouzz": ["On Mange 50 Burgers Avec Valouzz ! (Mauvaise idée...)"],
-    "Cyril": ["Qui Aura Le Plat Piégé ? (Ultra piquant)"]
+    "Michou": [
+      "Qui Est Le Pire ? (ft Michou, Inox, Hugoposé"
+    ],
+    "Valouzz": [
+      "On Mange 50 Burgers Avec Valouzz ! (Mauvaise idée...)"
+    ],
+    "Cyril": [
+      "Qui Aura Le Plat Piégé ? (Ultra piquant)"
+    ]
   },
   "Sora": {
     "FastGoodCuisine": [
@@ -266,7 +343,9 @@
     "HenryTran": [
       "ON DEVINE LES RÊVES QU'ILS ONT RÉALISÉS (Impossible de trouver 🥵)"
     ],
-    "Valouzz": ["ON DEVINE LEURS MÉTIERS (Vous trouverez jamais 🥵)"],
+    "Valouzz": [
+      "ON DEVINE LEURS MÉTIERS (Vous trouverez jamais 🥵)"
+    ],
     "JujuFitCats": [
       "BATAILLE DE COUPLE SUR PARCOURS AQUATIQUE (Adeline s'est pété le nez...)",
       "IMPOSSIBLE DE RENTRER LA BANANE DANS UNE BOUTEILLE ?! (Ft Enjoyphoenix"
@@ -279,13 +358,17 @@
       "ON JUGE LES DINGUERIES DE NOS ABONNÉS (Au Tribunal",
       "IMPOSSIBLE DE RENTRER LA BANANE DANS UNE BOUTEILLE ?! (Ft Enjoyphoenix"
     ],
-    "PierreCroce": ["POURQUOI C'EST DANS TON TÉLÉPHONE ÇA ??"]
+    "PierreCroce": [
+      "POURQUOI C'EST DANS TON TÉLÉPHONE ÇA ??"
+    ]
   },
   "PierreCroce": {
     "EnjoyPhoenix": [
       "Le jeu des statistiques insolites ! (certains chiffres sont impossibles à deviner)"
     ],
-    "Sora": ["Le dernier qui lâche son téléphone du regard gagne !"]
+    "Sora": [
+      "Le dernier qui lâche son téléphone du regard gagne !"
+    ]
   },
   "Michou": {
     "Inoxtag": [
@@ -302,7 +385,9 @@
       "SCHOOL RP IRL 2",
       "QUI TROUVERA LE TRÉSOR CACHÉ ? "
     ],
-    "Valouzz": ["QUI TROUVERA LE TRÉSOR CACHÉ ? "],
+    "Valouzz": [
+      "QUI TROUVERA LE TRÉSOR CACHÉ ? "
+    ],
     "Doigby": [
       "L’ASCENSEUR 2 : Qui sera le dernier Survivant ? ",
       "QUI EST LE TUEUR ?",
@@ -310,19 +395,36 @@
       "LE DERNIER QUI PERD, PAYE !",
       "L'ASCENSEUR INFERNAL : QUI SERA LE DERNIER SURVIVANT ?"
     ],
-    "Theodort": ["LE JEU DE LA CONFIANCE ! #", "ÉLIMINE LE SABOTEUR !"],
+    "Theodort": [
+      "LE JEU DE LA CONFIANCE ! #",
+      "ÉLIMINE LE SABOTEUR !"
+    ],
     "Maghla": [
       "AMONG US IRL ! #2",
       "SCHOOL RP IRL",
       "L'ASCENSEUR INFERNAL : QUI SERA LE DERNIER SURVIVANT ?",
       "ÉLIMINE LE SABOTEUR !"
     ],
-    "FastGoodCuisine": ["AMONG US IRL ! #2"],
-    "JustRiadh": ["AMONG US IRL ! #2"],
-    "RebeuDeter": ["AMONG US IRL ! #2", "QUI SERA LE MEILLEUR ÉLÈVE ?"],
-    "Djilsi": ["AMONG US IRL ! #2"],
-    "MaximeBiaggi": ["DÎNER DE L’EXTRÊME", "TU BOUGES, TU PERDS ! #2"],
-    "Gotaga": ["DÎNER DE L’EXTRÊME"],
+    "FastGoodCuisine": [
+      "AMONG US IRL ! #2"
+    ],
+    "JustRiadh": [
+      "AMONG US IRL ! #2"
+    ],
+    "RebeuDeter": [
+      "AMONG US IRL ! #2",
+      "QUI SERA LE MEILLEUR ÉLÈVE ?"
+    ],
+    "Djilsi": [
+      "AMONG US IRL ! #2"
+    ],
+    "MaximeBiaggi": [
+      "DÎNER DE L’EXTRÊME",
+      "TU BOUGES, TU PERDS ! #2"
+    ],
+    "Gotaga": [
+      "DÎNER DE L’EXTRÊME"
+    ],
     "Mastu": [
       "DÎNER DE L’EXTRÊME",
       "SCHOOL RP IRL",
@@ -330,22 +432,48 @@
       "LE JEU DE LA CONFIANCE ! #3",
       "On dévoile les photos interdites de notre téléphone !"
     ],
-    "Hugopose": ["Qui fera le plus de mission sans se faire chopper ?"],
-    "Villebrequin": ["QUI SERA LE MEILLEUR DUO DE YOUTUBE ? #3"],
-    "Amixem": ["QUI SERA LE MEILLEUR DUO DE YOUTUBE ? #3"],
-    "LeMondeALenvers": ["QUI SERA LE MEILLEUR DUO DE YOUTUBE ? #3"],
-    "Maskey": ["QUI EST LE TUEUR ? #2"],
-    "Feldup": ["QUI EST LE TUEUR ? #2"],
-    "Sofyan": ["QUI EST LE TUEUR ? #2"]
+    "HugoPose": [
+      "Qui fera le plus de mission sans se faire chopper ?"
+    ],
+    "Villebrequin": [
+      "QUI SERA LE MEILLEUR DUO DE YOUTUBE ? #3"
+    ],
+    "Amixem": [
+      "QUI SERA LE MEILLEUR DUO DE YOUTUBE ? #3"
+    ],
+    "LeMondeALenvers": [
+      "QUI SERA LE MEILLEUR DUO DE YOUTUBE ? #3"
+    ],
+    "Maskey": [
+      "QUI EST LE TUEUR ? #2"
+    ],
+    "Feldup": [
+      "QUI EST LE TUEUR ? #2"
+    ],
+    "Sofyan": [
+      "QUI EST LE TUEUR ? #2"
+    ]
   },
   "JustRiadh": {
-    "Inoxtag": ["ON TOMBE EN PANNE AVEC INOX "],
-    "Snaptrox": ["Qui sont les menteurs ?"],
-    "Doigby": ["Qui sont les menteurs ?", "Le Ptit Bac"]
+    "Inoxtag": [
+      "ON TOMBE EN PANNE AVEC INOX "
+    ],
+    "Snaptrox": [
+      "Qui sont les menteurs ?"
+    ],
+    "Doigby": [
+      "Qui sont les menteurs ?",
+      "Le Ptit Bac"
+    ]
   },
   "TheoBabac": {
-    "Joyca": ["TU PREFERES IRL 2", "LE BLAGUE CLUB"],
-    "Feldup": ["LE BLAGUE CLUB"]
+    "Joyca": [
+      "TU PREFERES IRL 2",
+      "LE BLAGUE CLUB"
+    ],
+    "Feldup": [
+      "LE BLAGUE CLUB"
+    ]
   },
   "Gotaga": {
     "Djilsi": [
@@ -353,11 +481,21 @@
       "COMMENT ON EN EST ARRIVÉ LÀ ??",
       "NOTRE PREMIÈRE FOIS À LA PÊCHE"
     ],
-    "Aminematue": ["QUI IRA SUR KICK EN PREMIER ?"],
-    "FreddyGladieux": ["QUI IRA SUR KICK EN PREMIER ?"],
-    "LenaSituations": ["ON A JAMAIS AUTANT RI 😂"],
-    "MisterV": ["ON A JAMAIS AUTANT RI 😂"],
-    "Michou": ["MASTERKILL SUR LA NOUVELLE SAISON FORTNITE"],
+    "Aminematue": [
+      "QUI IRA SUR KICK EN PREMIER ?"
+    ],
+    "FreddyGladieux": [
+      "QUI IRA SUR KICK EN PREMIER ?"
+    ],
+    "LenaSituations": [
+      "ON A JAMAIS AUTANT RI 😂"
+    ],
+    "MisterV": [
+      "ON A JAMAIS AUTANT RI 😂"
+    ],
+    "Michou": [
+      "MASTERKILL SUR LA NOUVELLE SAISON FORTNITE"
+    ],
     "Doigby": [
       "MASTERKILL SUR LA NOUVELLE SAISON FORTNITE",
       "LE TOUT PREMIER MASTERKILL SUR APEX LEGENDS",
@@ -368,8 +506,12 @@
       "MA COMMUNAUTÉ A UN INCROYABLE TALENT !",
       "QUI IRA SUR KICK EN PREMIER ?"
     ],
-    "Inoxtag": ["SESSION NOSTALGIE AVEC INOX SUR FORTNITE"],
-    "Squeezie": ["LE RETOUR DU MASTERKILL À 20 000€..."],
+    "Inoxtag": [
+      "SESSION NOSTALGIE AVEC INOX SUR FORTNITE"
+    ],
+    "Squeezie": [
+      "LE RETOUR DU MASTERKILL À 20 000€..."
+    ],
     "Locklear": [
       "LA GROSSE SOIRÉE HALO",
       "MASTERQUIZ SPÉCIAL NOËL",
@@ -379,16 +521,166 @@
       "MASTERQUIZ SPÉCIAL NOËL",
       "NOTRE PREMIÈRE FOIS À LA PÊCHE"
     ],
-    "RebeuDeter": ["MASTERQUIZ SPÉCIAL NOËL"],
-    "Mastu": ["C'EST QUOI MON MÉTIER ?", "COMMENT ON EN EST ARRIVÉ LÀ ??"],
-    "Maghla": ["C'EST QUOI MON MÉTIER ?", "LE LABYRINTHE DE L'HORREUR"],
+    "RebeuDeter": [
+      "MASTERQUIZ SPÉCIAL NOËL"
+    ],
+    "Mastu": [
+      "C'EST QUOI MON MÉTIER ?",
+      "COMMENT ON EN EST ARRIVÉ LÀ ??"
+    ],
+    "Maghla": [
+      "C'EST QUOI MON MÉTIER ?",
+      "LE LABYRINTHE DE L'HORREUR"
+    ],
     "MaximeBiaggi": [
       "MASTERQUIZ SPÉCIAL NOËL",
       "ILS FONT EXPLOSER DES PÉTARDS DANS LES STUDIOS 😱"
     ],
-    "Theodort": ["ILS FONT EXPLOSER DES PÉTARDS DANS LES STUDIOS 😱"],
-    "Joyca": ["LE LABYRINTHE DE L'HORREUR"],
-    "Amixem": ["JE PÊCHE MON POISSON RECORD ! 🐟"],
-    "LeBouseuh": ["JE PÊCHE MON POISSON RECORD ! 🐟"]
+    "Theodort": [
+      "ILS FONT EXPLOSER DES PÉTARDS DANS LES STUDIOS 😱"
+    ],
+    "Joyca": [
+      "LE LABYRINTHE DE L'HORREUR"
+    ],
+    "Amixem": [
+      "JE PÊCHE MON POISSON RECORD ! 🐟"
+    ],
+    "LeBouseuh": [
+      "JE PÊCHE MON POISSON RECORD ! 🐟"
+    ]
+  },
+  "MisterV": {
+    "FreddyGladieux": [
+      "QUI C'EST QUI FERA LA MEILLEURE CHANSON PAILLARDE ?"
+    ]
+  },
+  "McFlyCarlito": {
+    "Michou": [
+      "Podcartes feat un abonné #1"
+    ],
+    "Cyprien": [
+      "Discussion passionnée autour des mangas avec Lous et Cyprien",
+      "Retour sur les objets qui ont marqué notre enfance avec Cyprien"
+    ],
+    "Djilsi": [
+      "La gestion des émotions feat Djilsi et Paola",
+      "PAINBALL : si t’es pas honnête, tu souffres"
+    ],
+    "Amixem": [
+      "RACLETTE LEAGUE : tu manges une raclette OU tu passes la raclette",
+      "AUTO-ROAST : on se clash violemment et c’est si satisfaisan",
+      "Les voix de dessins animés cultes nous font un blindtest génial 2"
+    ],
+    "HugoDecrypte": [
+      "Le journalisme d’aujourd’hui feat Élise Lucet et Hugo Décrypte"
+    ],
+    "Gotaga": [
+      "AUTO-ROAST : on se clash violemment et c’est si satisfaisan"
+    ],
+    "Natoo": [
+      "AUTO-ROAST : on se clash violemment et c’est si satisfaisan",
+      "Nous adorons Natoo. Nous adorons les jeux de mots. Voici une vidéo",
+      "Qui s'y connaît le mieux en vin ? (on a l'alcool très bon vous verrez)"
+    ],
+    "CyrusNorth": [
+      "L'Amour : attirance, rupture, couple, comment gérer ?",
+      "À la recherche du bonheur feat Joyca et Cyrus North"
+    ],
+    "Inoxtag": [
+      "IA OU VRAI ARTISTE : Serez-vous meilleurs qu’Inox ?"
+    ],
+    "Mastu": [
+      "Les voix de dessins animés cultes nous font un blindtest génial 3 "
+    ],
+    "Joyca": [
+      "Les voix de dessins animés cultes nous font un blindtest génial 3 ",
+      "À la recherche du bonheur feat Joyca et Cyrus North",
+      "La maison est incroyable ! Fin de l’aventure Bizeneuille",
+      "Qui est le papa de qui ? Préparez les 🍿 ainsi que les 🤧",
+      "Qui est le papa de qui ? Préparez les 🍿 ainsi que les 🤧"
+    ],
+    "Theodort": [
+      "On place des villes de France et on est moins bons que des CM2",
+      "Qui est le papa de qui ? Préparez les 🍿 ainsi que les 🤧"
+    ],
+    "Seb": [
+      "Qui est le papa de qui ? Préparez les 🍿 ainsi que les 🤧"
+    ]
+  },
+  "Natoo": {
+    "Maghla": [
+      "TOP CHEF ou FLOP CHEF ?"
+    ]
+  },
+  "Joyca": {
+    "TheoBabac": [
+      "LE JUSTE POIDS ! (Avec ​⁠​Mastu et ​⁠Theobabac)",
+      "QUI NOUS IMPRESSIONNERA LE PLUS ",
+      "1 MINUTE POUR CONVAINCRE !",
+      "QUI A LA BONNE DÉFINITION ",
+      "ESSAYEZ DE NE PAS RIRE !"
+    ],
+    "Mastu": [
+      "LE JUSTE POIDS ! (Avec ​⁠​Mastu et ​⁠Theobabac)",
+      "IMPOSSIBLE QUE ÇA SOIT VRAI !",
+      "ON AFFRONTE DES LÉGENDES DU BOWLING ! (",
+      "EST-CE QUE C'EST UNE OEUVRE D'ART ?",
+      "BLINDTEST MOYEN-ÂGE !",
+      "PRODUIT DE LUXE OU COMMUN ? (Ft Mastu)"
+    ],
+    "Theodort": [
+      "ON AFFRONTE DES LÉGENDES DU BOWLING ! ("
+    ],
+    "Seb": [
+      "BLINDTEST MOYEN-AGE ! ",
+      "QUI NOUS IMPRESSIONNERA LE PLUS ",
+      "1 MINUTE POUR CONVAINCRE.",
+      "QUI A LA BONNE DÉFINITION ",
+      "QUI FAIT QUOI ? Ft. Seb"
+    ],
+    "Sofyan": [
+      "BLINDTEST MOYEN-AGE ! ",
+      "PROTÈGE TON OEUF !"
+    ],
+    "Feldup": [
+      "ON PARLE D'HORREUR ! (Et de nos histoires)"
+    ],
+    "McFlyCarlito": [
+      "TROUVE LE GÂTEAU ! #"
+    ],
+    "GMK": [
+      "TROUVE LE GÂTEAU ! #"
+    ],
+    "Inoxtag": [
+      "1 MINUTE POUR CONVAINCRE !",
+      "QUI A LE MEILLEUR TALENT ?"
+    ],
+    "Maghla": [
+      "1 MINUTE POUR CONVAINCRE."
+    ],
+    "MisterV" : ["50 OBJETS, 1 GÂTEAU ! "],
+    "FreddyGladieux" : ["50 OBJETS, 1 GÂTEAU ! "],
+    "MaximeBiaggi" : ["PROTÈGE TON OEUF !"]
+  },
+  "MaximeBiaggi" : {
+    "McFlyCarlito" : ["On vous a rendu service pendant une journée ("],
+    "Djilsi" : ["On fête Noël avec les copains", "Il est où le truc ?"],
+    "Gotaga" : ["On fête Noël avec les copains"],
+    "Maghla" : ["On fête Noël avec les copains"]
+  },
+  "Mastu" : {
+    "McflyCarlito" : ["INTERROGATOIRE SOUS DÉTECTEUR DE MENSONGES #5"],
+    "Maghla" : ["À QUI SONT CES ANECDOTES DE DATE ?", "2 VÉRITÉS, 1 MENSONG"],
+    "Joyca" : ["LE JEU DE LA FÈVE", "ON RETOURNE À L'UNIVERSITÉ", "PHOTO FAITE PAR UNE IA OU VRAIE PHOTO ?"],
+    "Theodort" : ["ON RETOURNE À L'UNIVERSITÉ", "ON ACCOSTE DES GENS EN VOITURE", "JE ME DEMANDAIS QUI GAGNE À LA BAGARRE ENTRE LES DEUX"],
+    "Michou" : ["On a passé 24H en ENFER.", "NUIT BLANCHE avec Michou et Inoxtag :", "INTERROGATOIRE SOUS DÉTECTEUR DE MENSONGES "],
+    "Aminematue" : ["INTERROGATOIRE SOUS DÉTECTEUR DE MENSONGES"],
+    "Inoxtag" : ["NUIT BLANCHE avec Michou et Inoxtag :", "JE ME DEMANDAIS QUI GAGNE À LA BAGARRE ENTRE LES DEUX"]
+  },
+  "Doigby" : {
+    "McflyCarlito" : ["ON S'EST TOUT PERMIS"],
+    "Gotaga" : ["NOOB OU CRACK #1"],
+    "Locklear" : ["NOOB OU CRACK #1"],
+    "LeBouseuh" : ["ON FAIT CHAUFFER LES PNEUS"]
   }
 }

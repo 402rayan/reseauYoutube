@@ -53,7 +53,10 @@ Le graph est créé avec la librairie `networkx` et affiché avec `matplotlib`.
   > LE BLAGUE CLUB
 - Gotaga
   > ON A JAMAIS AUTANT RI 😂
+- McFly & Carlito
+  > Qui est le papa de qui ? Préparez les 🍿 ainsi que les 🤧
 - RebeuDeter
   > Toutes les vidéos
-- MisterV, Cyprien, SEB, KevinTran, Feldup
+- MisterV, Cyprien, SEB, KevinTran, Feldup, Anas, Cyril
   > Pas de collaborations récentes
+
